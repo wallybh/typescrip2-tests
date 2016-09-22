@@ -1,2 +1,2 @@
-# typescrip2-tests
-Just testing typescript@2
+# typescript2-tests
+Learning and testing typescript@2
