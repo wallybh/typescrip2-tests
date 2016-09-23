@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/wallybh/typescrip2-tests/issues"
   },
-  "homepage": "https://github.com/wallybh/typescrip2-tests#readme"
+  "homepage": "https://github.com/wallybh/typescrip2-tests#readme",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-google": "^0.6.0",
+    "typescript": "^2.0.3"
+  }
 }
